@@ -5,9 +5,12 @@ Este repositório contém uma pesquisa em PDF sobre Internet das Coisas (IoT) de
 A pesquisa tem como objetivo apresentar os conceitos, funcionamento, aplicações, vantagens e desvantagens de cada tecnologia, com uma linguagem acessível e exemplos práticos.
 
 👥 Integrantes do grupo
-Leandro
 
-[Outros nomes do grupo, se quiser adicionar]
+Leandro Filipy de Lima
+
+Kerolyn Messias Padilha
+
+Daniel Vinicius Rios Sismer
 
 🔌 Tecnologias estudadas
 🗨️ MQTT (Message Queuing Telemetry Transport)
